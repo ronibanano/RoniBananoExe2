@@ -10,7 +10,7 @@
         android:id="@+id/button"
         android:layout_width="249dp"
         android:layout_height="132dp"
-        android:text="Button"
+        android:text="Click me"
         android:textSize="24sp"
         android:onClick="exe"
         app:layout_constraintBottom_toBottomOf="parent"
